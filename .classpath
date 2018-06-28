@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/jssc.jar" sourcepath="/Users/yongxiangwang/Documents/2014-2015FinalYearProject/DisplayPortsList_JSSC/lib/java-simple-serial-connector-2.8.0/src/java/jssc">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/yongxiangwang/Documents/2014-2015FinalYearProject/DisplayPortsList_JSSC/lib/jssc-2.8.0-javadoc.jar!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/yongxiangwang/Documents/2014-2015FinalYearProject/DisplayPortsList_JSSC"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
